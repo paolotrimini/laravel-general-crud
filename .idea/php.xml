@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/composer" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/sebastian/comparator" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/MyLaravelgeneralcrud/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

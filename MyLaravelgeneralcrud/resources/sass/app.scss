@@ -1,0 +1,32 @@
+//
+
+body {
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+header {
+    background-color: orange;
+}
+
+footer  {
+    background-color: yellowgreen;
+}
+
+ul {
+    list-style-type: none;
+
+    li {
+        a {
+            text-decoration: none;
+            color: lightblue;
+        }
+
+        .icons {
+
+            a:last-child {
+                color: firebrick;
+            }
+        }
+    }
+}

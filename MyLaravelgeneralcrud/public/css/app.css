@@ -1,0 +1,26 @@
+body {
+  background-color: darkgoldenrod;
+  color: white;
+}
+
+header {
+  background-color: orange;
+}
+
+footer {
+  background-color: yellowgreen;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li a {
+  text-decoration: none;
+  color: lightblue;
+}
+
+ul li .icons a:last-child {
+  color: firebrick;
+}
+
